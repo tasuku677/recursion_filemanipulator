@@ -1,6 +1,6 @@
 # recursion_filemanipulator
 recursion filemanipulatorプロジェクト用
-
+ 
 2つのpythonファイルがあります。question.pyとfile_manipulator.pyです。
 quetion.py は数字あてゲーム用のコードです。
 ユーザーは最大値と最小値を入力し、ゲームが始まります。プログラムが用意した数字を10回以内に当てるとゲームクリアです。
