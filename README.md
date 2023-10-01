@@ -1,7 +1,7 @@
 # recursion_filemanipulator
 recursion filemanipulatorプロジェクト用
  
-2つのpythonファイルがあります。question.pyとfile_manipulator.pyです。
+3つのpythonファイルがあります。question.pyとfile_manipulator.pyとfile_converter.pyです。
 
 
 quetion.py は数字あてゲーム用のコードです。
@@ -17,3 +17,7 @@ file_manipulator.pyはファイル操作のためのコードです。
 ・python3 file_manipulator.py duplicate-contents inputpath n: inputpath にあるファイルの内容を読み込み、その内容を複製し、複製された内容を inputpath に n 回複製します。
 
 ・python3 file_manipulator.py replace-string inputpath needle newstring: inputpath にあるファイルの内容から文字列 'needle' を検索し、'needle' の全てを 'newstring' に置き換えます。
+
+
+file_converterはｍｄファイルをhtmlに変換します。コマンドは以下を使用して下さい
+python3 file-converter.py markdown inputfile outputfile
