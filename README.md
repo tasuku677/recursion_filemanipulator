@@ -9,6 +9,7 @@ quetion.py は数字あてゲーム用のコードです。
 
 file_manipulator.pyはファイル操作のためのコードです。
 ユーザーは以下の4つのコマンドをターミナルに入力することでそれぞれの動作を実行することが出来ます。
+
 ・python3 file_manipulator.py reverse inputpath outputpath: inputpath にあるファイルを受け取り、outputpath に inputpath の内容を逆にした新しいファイルを作成します。
 
 ・python3 file_manipulator.py copy inputpath outputpath: inputpath にあるファイルのコピーを作成し、outputpath として保存します。
