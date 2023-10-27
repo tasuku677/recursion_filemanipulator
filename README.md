@@ -3,6 +3,7 @@
 
 ## 概要
 3つのpythonファイルがあります。question.pyとfile_manipulator.pyとfile_converter.pyです。
+
 question.pyは数字あてゲーム用のコードです。
 バックエンド開発環境の構築に慣れるために作成し、シンプルなCLI（コマンドラインインターフェース）スクリプトを作りました。Ubuntuをデュアルブートで使用し、Visual Studio Code、Python、そしてGitを利用して開発しました。PythonスクリプトをCLIを通じて実行すると、正しい回答が提供されるか、ゲームが終了するまで、標準入力から読み込み、標準出力に書き出します。
 
