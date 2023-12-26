@@ -9,11 +9,11 @@ question.pyは数字あてゲーム用のコードです。
 
 file_manipulator.pyはファイル操作のためのコードです。
 
-file_converter.pyはmdファイルをhtmlに変換します。
+file_converter.pyはmdファイルをhtmlに変換します。実装にはマークアップ言語であるMarkdownを使用しています。
 ## 作成の経緯
 データストリームを使う練習とファイルの操作の練習で作成しました。
 ## 使用技術
-Python
+Python, Markdown
 ## 使用方法
 ### question.py
 question.py は数字あてゲーム用のコードです。
